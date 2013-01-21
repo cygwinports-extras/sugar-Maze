@@ -1,0 +1,5 @@
+NAME="sugar-Maze"
+VERSION=22
+RELEASE=1
+SUGAR_TYPE="honey"
+inherit sugar
