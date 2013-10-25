@@ -1,8 +1,5 @@
 NAME="sugar-Maze"
-VERSION=22
+VERSION=24
 RELEASE=1
 SUGAR_TYPE="honey"
 inherit sugar
-
-
-PATCH_URI="22-cygwin.patch"
